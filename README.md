@@ -79,8 +79,7 @@
 <img 
       align="left" 
       alt="GitHub Stats"
-      height="200"
-      width = "480"
+      height="120"
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrossantos20&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
