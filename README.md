@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Sou o Leandro
+#👩🏻‍💻 Sou o Leandro
 **`Estudante de Engenharia da Computação`**
 
 <!-- Social icons section -->
