@@ -81,6 +81,7 @@
     style="padding-right: 10px;"
     src= "https://github-readme-stats.vercel.app/api?username=LeandroSSantos20&theme=ambient_gradient&show_icons=true)"
     />
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeandroSSantos20&show_icons=true&locale=en&layout=compact" alt="LeandroSSantos20"/></p>
     <!--src="https://github-readme-stats.vercel.app/api?username=LeandroSSantos20&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   -->
 </p>
